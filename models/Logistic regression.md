@@ -1,0 +1,7 @@
+Logistic regression is a type of machine learning model used for classification tasks. It is used to predict a binary outcome (a value of 0 or 1) based on one or more input variables (also known as features).
+
+Like linear regression, logistic regression is based on a linear relationship between the input variables and the output variable, but it uses a different function to predict the output. Specifically, it uses the logistic function, which maps the predicted output (which can be any value between negative infinity and positive infinity) to a value between 0 and 1. This allows the model to predict a probability of the output being 1, given the input variables.
+
+For example, let's say we want to predict whether a customer will churn (leave) a service based on their usage data. We could use a logistic regression model to learn the weights and bias that give the best prediction of the probability that the customer will churn, given their usage data.
+
+Logistic regression is a widely used model for classification tasks, and it is relatively fast to train and easy to implement. It can handle multiple input variables and can also be extended to handle multiple classes (more than two possible outcomes). However, it is limited by its assumption of a linear relationship between the input variables and the output variable, which may not always be appropriate for real-world data.

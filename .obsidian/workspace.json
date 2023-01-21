@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "66bf66daff660ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29c8af5bbf8566f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfe266ccc7880805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c16d6af2fd5646d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce6a0b160225b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe74768c2e18321e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26372bc1373d3eea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e6ed6487646653e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24dc984b87568f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "c76a98326114a8d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df9888d0e3f31be2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine learning models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afcd403c82366a55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine learning models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1be6a3f36bb8c55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "564f3fed7e7f7934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine learning models.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cfe266ccc7880805",
+  "lastOpenFiles": [
+    "api vs rest api/what is difference between api and rest api.md",
+    "api vs rest api/examples.md",
+    "Machine learning models.md",
+    "models/Support vector machines.md",
+    "models/Random forests.md",
+    "models/Neural networks.md",
+    "models/Logistic regression.md",
+    "models/linear regression/Linear regression.md",
+    "models/linear regression/regression math side.md",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,7 @@
+A decision tree is a type of machine learning model used for classification and regression tasks. It is a tree-like model, where an internal node represents an input feature, a branch represents a decision based on that feature, and a leaf node represents the predicted outcome.
+
+The decision tree model learns a set of rules based on the input features that can be used to predict the output. For example, in a classification task, the model might learn a set of rules that describe which input features are most indicative of a particular class.
+
+To build a decision tree, the model is trained on a dataset that includes both the input features and the corresponding output. During training, the model splits the input features into smaller and smaller groups, based on the values of the features. The model continues to split the groups until it reaches a stopping criteria, such as a maximum tree depth or a minimum number of samples in a group.
+
+After training, the decision tree can be used to make predictions on new, unseen data by following the decision rules learned during training. Decision trees are simple to understand and interpret, and they can handle both numerical and categorical input data. However, they can be prone to overfitting, which means that they may not generalize well to new data.
